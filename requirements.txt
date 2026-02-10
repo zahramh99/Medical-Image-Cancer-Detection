@@ -1,0 +1,25 @@
+# Cancer Image Detection Project Dependencies
+# Install with: pip install -r requirements.txt
+
+# ===== CORE DEEP LEARNING =====
+torch>=2.0.0               # PyTorch main framework
+torchvision>=0.15.0        # Vision datasets & models
+
+# ===== DATA PROCESSING =====
+numpy>=1.24.0              # Numerical operations
+pandas>=2.0.0              # Data manipulation & CSV handling
+
+# ===== VISUALIZATION =====
+matplotlib>=3.7.0          # Plotting & graphs
+
+# ===== MACHINE LEARNING =====
+scikit-learn>=1.3.0        # Metrics & utilities
+
+# ===== IMAGE PROCESSING =====
+Pillow>=10.0.0             # Image loading & manipulation
+
+# ===== OPTIONAL (Uncomment if needed) =====
+# opencv-python>=4.8.0      # Advanced image processing
+# seaborn>=0.12.0           # Enhanced visualizations
+# tqdm>=4.65.0              # Progress bars
+# jupyter>=1.0.0            # Notebook environment
