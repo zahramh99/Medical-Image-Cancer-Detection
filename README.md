@@ -19,9 +19,15 @@ Before running the project, ensure that you have the following installed:
 - PyTorch and related libraries
 - Additional dependencies listed in the `requirements.txt` (optional)
 
+## License
+
+This project is licensed under the MIT License.
+
 ### Installing Required Libraries
 
 You can install the necessary libraries by running the following command:
 
 ```bash
 pip install -r requirements.txt
+
+
